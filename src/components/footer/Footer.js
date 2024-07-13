@@ -15,13 +15,13 @@ const Footer = () => {
       <div className="footer-sns">
         <div className="design-by">Registrado en DNRPA</div>
         <div className="sns-links">
-          <a href="https://api.whatsapp.com/send?phone=1144787277" target="_blank" rel="noreferrer">
+          <a href="https://api.whatsapp.com/send?phone=+5491144787277" target="_blank" rel="noreferrer">
             <i className="fab fa-whatsapp linkedin"></i>
           </a>
           <a href="https://facebook.com/emma.delgado.121/" target="_blank" rel="noreferrer">
             <i className="fab fa-facebook facebook"></i>
           </a>
-          <a href="https://instagram.com/emmaeliasdelgado/" target="_blank" rel="noreferrer">
+          <a href="https://www.instagram.com/emmadelgado0k/" target="_blank" rel="noreferrer">
             <i className="fab fa-instagram twitter"></i>
           </a>
         </div>
